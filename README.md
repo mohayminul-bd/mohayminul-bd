@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner]([https://your-banner-image-link.com/banner.png](https://i.ibb.co/GQR0khMk/Gemini-Generated-Image-97sd2v97sd2v97sd.png))
+![Banner]([https://i.ibb.co/GQR0khMk/Gemini-Generated-Image-97sd2v97sd2v97sd.png])
 
 # Hi 👋, I'm Mohayminul Islam
 **Frontend Developer | MERN Stack Developer | React Enthusiast**
