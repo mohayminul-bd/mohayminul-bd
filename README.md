@@ -23,7 +23,8 @@ I love building responsive, user-friendly web applications and continuously lear
 ### Frontend
 - **React**  
 - **HTML**  
-- **CSS**  
+- **CSS**
+- **Tailwind css**
 - **JavaScript**  
 
 ### Backend
