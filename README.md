@@ -1,16 +1,44 @@
-## Hi there 👋
+<!-- Banner Image -->
+![Banner]([https://your-banner-image-link.com/banner.png](https://i.ibb.co/GQR0khMk/Gemini-Generated-Image-97sd2v97sd2v97sd.png))
 
-<!--
-**mohayminul-bd/mohayminul-bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Mohayminul Islam
+**Frontend Developer | MERN Stack Developer | React Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I am a passionate Front-End Developer with hands-on experience in React and exploring the MERN stack.  
+I love building responsive, user-friendly web applications and continuously learning new technologies like Firebase and Next.js.
+
+---
+
+## Current Activities
+- Exploring react.js and server-side rendering.
+- Working on a Tourism Website project.
+- Building interactive React projects with Firebase integration.
+
+---
+## 🛠 Skills
+
+### Frontend
+- **React**  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+
+### Backend
+- **Node.js**  
+- **Express**  
+
+### Database & Firebase
+- **MongoDB**  
+- **Firebase**  
+
+### Tools
+- **Git**  
+- **VS Code**
+
+## Social Links
+protfolio web: (https://magenta-rolypoly-c32d24.netlify.app/)
+Facebook: (https://www.facebook.com/mdmohaymanulislam.sowrov)
+email: mohayminulislam514@gmail.com
